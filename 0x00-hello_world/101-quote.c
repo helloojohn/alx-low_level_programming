@@ -1,11 +1,7 @@
-#include<stdio.h>
-#include<string.h>
-#include<unistd.h>
-
+#include <unistd.h>
 /**
- * main -  Entry point
- *
- * Return: Always 1 (Success)
+ * main - prints the standard error sandwiched around the  standard output
+ * Return:returns 1
  */
 int main(void)
 {

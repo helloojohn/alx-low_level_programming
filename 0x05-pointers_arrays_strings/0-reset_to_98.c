@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * reset_to_98 - function takes a pointer to an integer parameter and updates its value.
- * @n: input inter=ger.
- * Return: no return.
+ * reset_to_98 - function that takes a pointer to an integer parameter
+ * @n: integer pointer
+ * Return: 0 Success
  */
 
 void reset_to_98(int *n)

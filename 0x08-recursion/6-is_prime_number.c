@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
   * is_prime -wrapper function to check for prime.
